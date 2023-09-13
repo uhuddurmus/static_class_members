@@ -1,0 +1,2 @@
+# static_class_members
+static_class_members
